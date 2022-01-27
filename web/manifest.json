@@ -1,6 +1,6 @@
 {
-    "name": "timer",
-    "short_name": "timer",
+    "name": "stopwatch",
+    "short_name": "stopwatch",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
